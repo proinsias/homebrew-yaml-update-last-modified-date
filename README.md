@@ -1,6 +1,7 @@
 # homebrew-yaml-update-last-modified-date
 
-Homebrew Tap for yaml-update-last-modified-date.
+Homebrew Tap for
+[yaml-update-last-modified-date](https://proinsias.github.io/yaml-update-last-modified-date/).
 
 ## Requirements
 
@@ -8,9 +9,19 @@ Homebrew Tap for yaml-update-last-modified-date.
 
 ## How do I install this formula?
 
-`brew install proinsias/yaml-update-last-modified-date/yaml-update-last-modified-date`
+```shell
+# Either...
 
-Or `brew tap proinsias/yaml-update-last-modified-date` and then `brew install yaml-update-last-modified-date`.
+brew install proinsias/yaml-update-last-modified-date/yaml-update-last-modified-date
+
+# Or first...
+
+brew tap proinsias/yaml-update-last-modified-date`
+
+# And then...
+
+brew install yaml-update-last-modified-date
+```
 
 ## Documentation
 
