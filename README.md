@@ -6,19 +6,15 @@ Homebrew Tap for yaml-update-last-modified-date.
 
 * [Homebrew](https://github.com/Homebrew/brew)
 
-## Usage
+## How do I install this formula?
 
-First add this repo to your brew taps:
+`brew install proinsias/yaml-update-last-modified-date/yaml-update-last-modified-date`
 
-```
-brew tap proinsias/homebrew-yaml-update-last-modified-date
-```
+Or `brew tap proinsias/yaml-update-last-modified-date` and then `brew install yaml-update-last-modified-date`.
 
-Then you can install `yaml-update-last-modified-date`:
+## Documentation
 
-```shell
-brew install yaml-update-last-modified-date
-```
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
 
 ## License
 
