@@ -1,7 +1,7 @@
 repo_name: proinsias/homebrew-yaml-update-last-modified-date
-report_id: 6dae6717ab4aa0266dd346f32889e2e6
+report_id: f91d63c7001662cc9324739c0392f600
 repo_type: Public
-timestamp: '2023-11-13T01:28:13+00:00'
+timestamp: '2023-12-14T10:33:55+00:00'
 requested_by: proinsias
 provider: github
 branch: main
@@ -34,6 +34,6 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/tests.yml"
+  detection_source: ".github/workflows/publish.yml"
   last_updated_by: Francis T. O'Donovan
   last_updated_on: 2023-04-18 14:52:00.000000000 Z
